@@ -1,1 +1,0 @@
-# valorafilm-providers
